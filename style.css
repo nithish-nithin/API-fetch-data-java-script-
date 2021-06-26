@@ -1,0 +1,20 @@
+ .card{
+     width: 40%;
+     margin: 1rem;
+     padding: 1rem;
+     background-color:crimson;
+     border: 2px solid black;
+ }
+ .flex-box{
+      display: flex;
+      flex-wrap: wrap;
+ }
+
+ header{
+     height:60px;
+     background-color: black;
+     color: blanchedalmond;
+     text-align: center;
+     padding: 2rem;
+     font-size: 40px;
+ }
